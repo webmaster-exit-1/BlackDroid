@@ -40,3 +40,7 @@ distro_setup() {
 
 # Run the setup
 distro_setup
+```
+
+You can save this script as `blackarch.sh` in the `distro-plugins` directory of the `proot-distro` repository. This script will install BlackArch with XFCE in Termux using proot-distro.
+
