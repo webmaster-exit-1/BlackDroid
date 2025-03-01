@@ -21,7 +21,7 @@ TARBALL_SHA256['x86_64']="75e069c3f59f4806848972dfd6a2d390b0328ca3f4486db140eb21
 distro_setup() {
     # Fix environment variables on login or su.
     local f
-    for f in su su-l system-local-login system-remote-login; do
+    for f in su su -l system-local-login system-remote-login; do
         echo "session  required  pam_env.so readenv=1" >> ./etc/pam.d/"${f}"
     done
 
