@@ -1,4 +1,3 @@
-# BlackDroid
 BlackArch XFCE on Termux
 ====
 
@@ -6,11 +5,11 @@ BlackArch XFCE on Termux
 
 ------
 
-## All in the palm of your hand.
+### All in the palm of your hand.
 
 ------
 
-## Installer script:
+#### Installer script:
 
 ```sh
 # This is a proot-distro plugin for installing BlackArch with XFCE in Termux.
