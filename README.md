@@ -3,10 +3,12 @@ BlackArch XFCE on Termux
 ====
 
 ## Literally one of the fastest ways to deploy Arch/BlackArch Linux with a working graphical desktop.
-====
+
+------
 
 ## All in the palm of your hand.
-====
+
+------
 
 ## Installer script:
 
