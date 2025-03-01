@@ -1,5 +1,12 @@
 # BlackDroid
 BlackArch XFCE on Termux
+====
+
+## Literally one of the fastest ways to deploy Arch/BlackArch Linux with a working graphical desktop.
+====
+
+## All in the palm of your hand.
+====
 
 ## Installer script:
 
@@ -42,5 +49,6 @@ distro_setup() {
 distro_setup
 ```
 
-You can save this script as `blackarch.sh` in the `distro-plugins` directory of the `proot-distro` repository. This script will install BlackArch with XFCE in Termux using proot-distro.
+You can add `blackarch.sh` in the `distro-plugins` directory of the `proot-distro` repository. This script will install Arch Linux (as the base distro) with BlackArch repository added (the BlackArch way)
+with XFCE installed as the default desktop (seems xfce has almost zero issues when ran in Termux) in Termux using proot-distro.
 
