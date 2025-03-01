@@ -1,4 +1,4 @@
-BlackArch XFCE on Termux
+BlackArch w/ XFCE on Termux
 ====
 
 ## Literally one of the fastest ways to deploy Arch/BlackArch Linux with a working graphical desktop.
